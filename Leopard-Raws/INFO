@@ -1,0 +1,10 @@
+{
+"name": "leopard",
+"displayname": "Leopard-Raws",
+"description": "Leopard-Raws Search",
+"version": "1.0",
+"site": "http://leopard-raws.org",
+"module": "search.php",
+"type": "search",
+"class": "TorrentSearchLeopard"
+}
